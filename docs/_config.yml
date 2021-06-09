@@ -33,7 +33,7 @@ aux_links:
 
 # Build settings
 markdown: kramdown
-theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
 color_scheme: StT-Color
 hideThemeButton: false
 
@@ -62,3 +62,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+github: [metadata]
