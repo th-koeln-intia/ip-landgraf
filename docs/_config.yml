@@ -33,6 +33,7 @@ aux_links:
 
 # Build settings
 markdown: kramdown
+#theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 color_scheme: StT-Color
 hideThemeButton: false
@@ -41,7 +42,7 @@ hideThemeButton: false
 plugins:
   - jekyll-feed
   - jekyll-relative-links
-  
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
