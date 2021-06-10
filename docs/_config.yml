@@ -39,6 +39,7 @@ color_scheme: StT-Color
 
 
 
+
 plugins:
   - jekyll-feed
   - jekyll-relative-links
