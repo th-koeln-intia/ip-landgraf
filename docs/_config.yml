@@ -36,7 +36,7 @@ markdown: kramdown
 #theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 color_scheme: StT-Color
-
+logo: "/assets/logo.png"
 
 
 
