@@ -2,7 +2,7 @@
 layout: default
 parent: Das Vorgehen
 title: Anforderungen
-nav_order: 3
+nav_order: 4
 has_children: true
 ---
 
@@ -21,5 +21,5 @@ _aus [IEEE 610.12-1990](https://standards.ieee.org/standard/610_12-1990.html):_
 * (3) Eine dokumentierte Repräsentation einer Bedingung oder einer Fähigkeit wie in (1) oder (2):
 
 ## Anforderungen an das Projekt
-Die Anforderungen für unser Projekt wurden in nicht-funktionale und funktionale Anforderungen getrennt.<br /> Außerdem erfolgte eine Einteilung und Priorisierung nach dem muss/soll/kann-Schema:
+Die Anforderungen für das Projekt wurden in nicht-funktionale und funktionale Anforderungen getrennt.<br /> Außerdem erfolgte eine Einteilung und Priorisierung nach dem muss/soll/kann-Schema:
 
