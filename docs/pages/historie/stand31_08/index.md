@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Projekthistorie
+parent: Archiv
 title: Stand 31.08
 nav_order: 6
 has_toc: false

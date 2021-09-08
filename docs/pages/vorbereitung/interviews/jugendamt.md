@@ -2,7 +2,7 @@
 layout: default
 title: Jugendamt Interview
 parent: Interviews
-grand_parent: Kennenlernen der Projekt-Domäne
+grand_parent: Kennenlernen der Domäne
 nav_order: 1
 ---
 

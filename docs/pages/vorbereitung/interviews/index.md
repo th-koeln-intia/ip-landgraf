@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Interviews
-parent: Kennenlernen der Projekt-Domäne
+parent: Kennenlernen der Domäne
 nav_order: 3
 has_children: true
 

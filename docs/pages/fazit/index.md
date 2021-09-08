@@ -1,12 +1,12 @@
 ---
 layout: default
 permalink: /fazit
-title: Projektfazit
-nav_order: 5
+title: Fazit des Projektes
+nav_order: 6
 ---
 
 
-## Glossar
+## Fazit
 
 
 

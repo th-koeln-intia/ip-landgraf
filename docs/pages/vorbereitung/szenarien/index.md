@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Kennenlernen der Projekt-Domäne
+parent: Kennenlernen der Domäne
 title: Szenarien
 nav_order: 4
 has_children: true

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stakeholder
-parent: Kennenlernen der Projekt-Domäne
+parent: Kennenlernen der Domäne
 nav_order: 2
 has_children: false
 

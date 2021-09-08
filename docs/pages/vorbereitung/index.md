@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kennenlernen der Projekt-Domäne
+title: Kennenlernen der Domäne
 nav_order: 3
 has_children: true
 ---

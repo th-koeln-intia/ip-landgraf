@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Projekthistorie
-nav_order: 6
+title: Archiv
+nav_order: 7
 has_children: true
 ---
 

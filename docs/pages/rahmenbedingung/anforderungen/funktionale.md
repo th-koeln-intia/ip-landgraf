@@ -1,6 +1,6 @@
 ---
 layout: default
-grand_parent: Vorgehen in der Entwicklung
+grand_parent: Rahmenbedingungen
 parent: Anforderungen
 title: Funktionale
 nav_order: 2

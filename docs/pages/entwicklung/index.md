@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vorgehen in der Entwicklung
-nav_order: 4
+nav_order: 5
 has_children: true
 ---
 
@@ -9,7 +9,6 @@ has_children: true
 
 
 ## Arbeitsschritte
-* Erarbeiten von Anforderungen an den Sprachassistenten
 * Evaluieren der Ergebnisse des Informatikprojektes und Auswahl des Tech-Stacks
 * Erstellen und Verfeinern eines Prototypen mittels iterativem Vorgehen
 * Erste qualitative Selbsttests und Festhalten des subjektiven Eindrucks ggf. Fehlerbehebung

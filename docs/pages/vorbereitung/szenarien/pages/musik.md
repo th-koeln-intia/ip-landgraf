@@ -1,6 +1,6 @@
 ---
 layout: default
-grand_parent: Kennenlernen der Projekt-Domäne
+grand_parent: Kennenlernen der Domäne
 parent: Szenarien
 title: Schlager-Raten
 nav_order: 6

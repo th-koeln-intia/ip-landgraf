@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Zielgruppe
-parent: Kennenlernen der Projekt-Domäne
+parent: Kennenlernen der Domäne
 nav_order: 1
 
 ---
