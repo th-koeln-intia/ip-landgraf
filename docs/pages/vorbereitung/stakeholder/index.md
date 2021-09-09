@@ -11,11 +11,11 @@ nav_order: 1
 | Identifikator    | Name des Stakeholders      | Organisation oder Einzelperson    | Macht im / über das System | Zu erwartender Einfluss auf die Stakeholder |
 |-----------------|---------------------------| ----------------------------------|:---------------------------------:|:---------------------------------:|
 | [SH-1](#sh-1)             | Teilnehmer einer [Maßnahme](/glossar#ma%C3%9Fnahme)  | Einzelperson                      | **Hoch**{: .label .label-red }  | **Hoch**{: .label .label-red }  | 
-| [SH-2](#sh-2)            | Betreuungspersonal einer [Maßnahme](/glossar#ma%C3%9Fnahme)	| Einzelperson                      | **Hoch**{: .label .label-red } | **Hoch**{: .label .label-red } | 
+| [SH-2](#sh-2)            | Betreuungspersonal einer [Maßnahme](/glossar#ma%C3%9Fnahme) (Angestellter)	| Einzelperson                      | **Hoch**{: .label .label-red } | **Hoch**{: .label .label-red } | 
 | [SH-3](#sh-3)            | Angehörige der Teilnehmer  | Einzelperson                      | **Mittel**{: .label .label-yellow } | **Gering**{: .label .label-green }  | 
 | [SH-4](#sh-4)            | Gesetzliche Betreuer von Teilnehmern	| Einzelperson                      |  **Hoch**{: .label .label-red }  | **Gering**{: .label .label-green }  | 
-| [SH-5](#sh-5)            | Verantwortliche innerhalb einer [Maßnahme](/glossar#ma%C3%9Fnahme)	    | Einzelperson          | **Hoch**{: .label .label-red }  | **Hoch**{: .label .label-red } |
-| [SH-6](#sh-6)            | Leiter einer [Maßnahme](/glossar#ma%C3%9Fnahme)/Arbeitgeber	    | Einzelperson oder Organisation          | **Hoch**{: .label .label-red }  | **Mittel**{: .label .label-yellow } |  
+| [SH-5](#sh-5)            | Verantwortliche innerhalb einer [Maßnahme](/glossar#ma%C3%9Fnahme) (Angestellter)	    | Einzelperson          | **Hoch**{: .label .label-red }  | **Hoch**{: .label .label-red } |
+| [SH-6](#sh-6)            | Leiter einer [Maßnahme](/glossar#ma%C3%9Fnahme) (Arbeitgeber)	    | Einzelperson oder Organisation          | **Hoch**{: .label .label-red }  | **Mittel**{: .label .label-yellow } |  
 | [SH-7](#sh-7)            | Geldgeber einer [Maßnahme](/glossar#ma%C3%9Fnahme)	| Einzelperson oder Organisation                    |  **Mittel**{: .label .label-yellow } | **Gering**{: .label .label-green }  | 
 
 
