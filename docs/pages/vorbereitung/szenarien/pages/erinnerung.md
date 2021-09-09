@@ -17,7 +17,7 @@ has_children: false
 
 **Normalablauf:**
 1. Der Teilnehmer sucht einen Betreuer.
-2. Der Teilnehmer findet einen Betreuer
+2. Der Teilnehmer findet einen Betreuer.
 3. Der Teilnehmer sagt dem Betreuer nach Ablauf von welcher Zeitspanne er erinnert werden möchte und an was er erinnert werden möchte.
 4. Betreuer bestätigt dies und wartet die Zeitspanne ab (eventuell unter Einbeziehung von Notizen, Uhren und/oder mechanischen oder digitalen Timern)
 5. Nach Ablauf der Zeit sagt der Betreuer dem Teilnehmer bescheid.

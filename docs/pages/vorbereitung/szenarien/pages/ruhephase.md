@@ -3,11 +3,11 @@ layout: default
 grand_parent: Kennenlernen der Domäne
 parent: Szenarien
 title: Ruhephase
-nav_order: 5
+nav_order: 4
 has_children: false
 ---
 
-## 5. Ruhephase nach dem Mittagessen
+## 4. Ruhephase nach dem Mittagessen
 
 **Auslösende(r) Akteur(e):**   Betreuer
 
