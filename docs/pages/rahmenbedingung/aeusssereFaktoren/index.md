@@ -3,7 +3,6 @@ layout: default
 parent: Rahmenbedingungen
 title: Äußere Faktoren
 nav_order: 1
-has_children: true
 ---
 
 

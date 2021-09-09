@@ -97,7 +97,7 @@ Ja also ganz viele von den Kindern haben eher das Problem oder was es häufig gi
 **Interviewer:**{: .text-yellow-000}  
 Na gut da wäre jetzt meine nächste Frage:  wie wäre das mit der Smartphone Kompetenz […] oder erst mal zur Smartphone Kompetenz?
 
-**Befragte:**{: .text-yyellow-000}  
+**Befragte:**{: .text-yellow-000}  
 Also soweit ich weiß hatte er kein eigenes Smartphone was auch damit zusammen hängt, dass die Familie also wirklich auch Geld Probleme hatte und es sich gar nicht leisten konnte die Kinder gut mit Geräten auszustatten.
 
 **Interviewer:**{: .text-yellow-000}  

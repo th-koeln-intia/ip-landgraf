@@ -11,4 +11,4 @@ has_children: true
 ## Arbeitsschritte
 * Evaluieren der Ergebnisse des Informatikprojektes und Auswahl des Tech-Stacks
 * Erstellen und Verfeinern eines Prototypen mittels iterativem Vorgehen
-* Erste qualitative Selbsttests und Festhalten des subjektiven Eindrucks ggf. Fehlerbehebung
+* Erste qualitative Selbsttests und Festhalten des subjektiven Eindrucks ggf. Fehlerbehebung 

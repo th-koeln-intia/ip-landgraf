@@ -3,4 +3,6 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+docs/_sass/support/
+docs/pages/vorbereitung/szenarien/pages/musik.md
 Gemfile.lock
