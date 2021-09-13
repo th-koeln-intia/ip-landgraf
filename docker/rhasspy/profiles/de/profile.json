@@ -1,0 +1,65 @@
+{
+    "command": {
+        "webrtcvad": {
+            "before_sec": "0.6",
+            "speech_sec": "0.4"
+        }
+    },
+    "dialogue": {
+        "system": "rhasspy"
+    },
+    "intent": {
+        "system": "fsticuffs"
+    },
+    "microphone": {
+        "system": "pyaudio"
+    },
+    "mqtt": {
+        "enabled": "true",
+        "host": "mosquitto",
+        "site_id": "maxmax"
+    },
+    "sounds": {
+        "aplay": {
+            "device": "default:CARD=Headphones"
+        },
+        "error": "",
+        "system": "aplay"
+    },
+    "speech_to_text": {
+        "deepspeech": {
+            "acoustic_model": "deepspeech/model/0.9/output_graph.tflite",
+            "base_trie": "deepspeech/model/0.9/base_trie",
+            "trie": "deepspeech/trie"
+        },
+        "system": "deepspeech"
+    },
+    "text_to_speech": {
+        "system": "nanotts"
+    },
+    "wake": {
+        "pocketsphinx": {
+            "keyphrase": "max max",
+            "threshold": 3.162277660168379e-19
+        },
+        "raven": {
+            "keywords": {
+                "maxmax fj": {
+                    "enabled": true
+                },
+                "maxmax fm": {
+                    "enabled": true
+                },
+                "maxmax mj": {
+                    "enabled": true
+                },
+                "maxmax mm": {
+                    "enabled": true
+                }
+            },
+            "minimum_matches": "1",
+            "probability_threshold": "0.54"
+        },
+        "system": "pocketsphinx"
+    }
+}
