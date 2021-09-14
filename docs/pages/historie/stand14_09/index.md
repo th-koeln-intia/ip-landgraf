@@ -18,7 +18,7 @@ has_toc: false
 * Lampe ein- und ausschalten (Nur verfügbar wenn Lampe verbunden ist, Kann nicht gestartet werden wenn Ruhemodus oder Aufpassmodus aktiv ist, Nur im MaxMax Grün)
 
 ## Anforderungen bei denen der Erreichungsgrad nicht genau bestimmtbar ist
-Eventuell interessant für BA!{: .label .label-green }
+**Eventuell interessant für BA!**{: .label .label-green }
 
 | Identifikator | Beschreibung                                                                                                                        | Erreichungsgrad                                                                                                          |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------: |
@@ -31,6 +31,7 @@ Eventuell interessant für BA!{: .label .label-green }
 | F-075         | Das Feedback des Aufpassskills sollte in Bezug auf Fehlalarme und Ablenkung nicht störend sein                                      | **Wird teilweise Erfüllt**{: .label .label-yellow }   |
 
 ## Nicht erfüllte bzw. falsch beschriebene Anforderungen
+
 | Identifikator | Beschreibung                                                                                                                        | Erreichungsgrad                                                                                                          |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------: |
 | NF-006        | Das System soll über einen verbundenen Bewegungssensor verfügen                                                                       |**Wird nicht Erfüllt**{: .label .label-red }  |
@@ -43,6 +44,6 @@ Eventuell interessant für BA!{: .label .label-green }
 2. Verügbarkeit von Lampe und Erschütterungssensor wird alle 30 Sekunden gecheckt
 3. Beschreiben eines Sprachassistenten und seiner Merkmale in [Kennenlernen der Domäne](https://ip-landgraf.intia.de/vorbereitung)
 4. Erklären warum Fokus auf Altenpflege (Inklusiv-Design) am Ende von [Kennenlernen der Domäne](https://ip-landgraf.intia.de/vorbereitung) bzw. [Rahmenbedingung](https://ip-landgraf.intia.de/pages/rahmenbedingung/)
-5. Begründung von Farbwahl bei Skills aber auch GitHub-Pages (Farbwirkung, [Für Farbenblinde möglich](https://www.toptal.com/designers/colorfilter)) (Eventuell interessant für BA!{: .label .label-green })
-6. Anleitung bzw. "Rezeptbuch" zur Hilfe bei Benutzung von Maxmax (Eventuell interessant für BA!{: .label .label-green })
+5. Begründung von Farbwahl bei Skills aber auch GitHub-Pages (Farbwirkung, [Für Farbenblinde möglich](https://www.toptal.com/designers/colorfilter)) (**Eventuell interessant für BA!**{: .label .label-green })
+6. Anleitung bzw. "Rezeptbuch" zur Hilfe bei Benutzung von Maxmax (**Eventuell interessant für BA!**{: .label .label-green })
 7. Termin für Praxisprojektvortrag Di, 5.10.21 (Früher war leider nicht möglich)
