@@ -2,7 +2,7 @@
 layout: default
 parent: Archiv
 title: Stand 17.08
-nav_order: 5
+nav_order: 2
 has_toc: false
 ---
 

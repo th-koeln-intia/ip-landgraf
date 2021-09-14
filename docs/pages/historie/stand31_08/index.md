@@ -2,7 +2,7 @@
 layout: default
 parent: Archiv
 title: Stand 31.08
-nav_order: 6
+nav_order: 3
 has_toc: false
 ---
 
@@ -58,7 +58,7 @@ has_toc: false
 | NF-021        | Das Wake Word soll nicht regelmäßig im allgemeinen Sprachgebrauch von Deutschen vorkommen                                             |**Wird Erfüllt**{: .label .label-green }  |
 | NF-022        | Das System soll nicht abschreckend wirken                                                                                           |**Wird teilweise Erfüllt**{: .label .label-yellow }  |
 | NF-023        | Das System soll leicht zu bedienen und intuitiv sein                                                                                |**Wird teilweise Erfüllt**{: .label .label-yellow }  |
-| NF-024        | Die Bedienung des Systems soll leicht zu erlernen sein                                                                              |**Wird Erfüllt**{: .label .label-green }  |
+| NF-024        | Die Bedienung des Systems soll leicht zu erlernen sein                                                                              |**Wird teilweise Erfüllt**{: .label .label-yellow }  |
 | NF-025        | Das System soll leicht zu installieren sein                                              |**Wird teilweise Erfüllt**{: .label .label-yellow }  |
 | NF-026        |                                                                                                                                     |                                                                                                                  |
 | NF-027        |                                                                                                                                     |                                                                                                                  |
@@ -95,11 +95,11 @@ has_toc: false
 | F-057         |                                                                                                                                     |                                                                                                                  |
 | F-058         |                                                                                                                                     |                                                                                                                  |
 | F-059         |                                                                                                                                     |                                                                                                                  |
-| F-060         | Das System soll über eine Skill verfügen der bei einer Stillenphase (Mittagsruhe/Arbeitsruhe) unterstützend wirkt                   |  **Wird Erfüllt**{: .label .label-green }|
+| F-060         | Das System soll über eine Skill verfügen der bei einer Stillephase (Mittagsruhe/Arbeitsruhe) unterstützend wirkt                   |  **Wird Erfüllt**{: .label .label-green }|
 | F-061         | Das System soll in der Lage sein eine Stillephase in unterschiedlicher Länge durchzuführen                                          |  **Wird Erfüllt**{: .label .label-green }|
 | F-062         | Das System soll die Lautstärke in seiner Umgebung messen können                                                                     | **Wird teilweise Erfüllt**{: .label .label-yellow }  |
 | F-063         | Das System soll während einer Stillephase Feedback geben sobald eine gewisse Lautstärke überschritten ist                           | **Wird teilweise Erfüllt**{: .label .label-yellow }  |
-| F-064         | Das Feedback in der Stillephase soll nicht ablenkend wirken und die Stillephase unterstützen                                        | **Wird Erfüllt**{: .label .label-green }|
+| F-064         | Das Feedback in der Stillephase soll nicht ablenkend wirken und die Stillephase unterstützen                                        | **Wird teilweise Erfüllt**{: .label .label-yellow } |
 | F-065         |                                                                                                                                     |                                                                                                                  |
 | F-066         |                                                                                                                                     |                                                                                                                  |
 | F-067         |                                                                                                                                     |                                                                                                                  |
@@ -110,6 +110,6 @@ has_toc: false
 | F-072         | Der Betreuer einer Maßnahme sollen in der Lage sein den Aufpassskill zu aktivieren und zu deaktivieren                              | **Wird Erfüllt**{: .label .label-green }|
 | F-073         | Die Teilnehmer einer Maßnahme sollen in der Lage sein den Aufpassskill zu aktivieren                                                | **Wird Erfüllt**{: .label .label-green }|
 | F-074         | Der Aufpassskill soll als zusätzliche Sicherheit dienen und die Betreuer dazu animieren bei Feedback mal nach der Lage zu schauen   |  **Wird teilweise Erfüllt**{: .label .label-yellow }   |
-| F-075         | Das Feedback des Aufpassskills sollte in Bezug auf Fehlalarme und Ablenkung nicht störend sein                                      | **Wird Erfüllt**{: .label .label-green }|
+| F-075         | Das Feedback des Aufpassskills sollte in Bezug auf Fehlalarme und Ablenkung nicht störend sein                                      | **Wird teilweise Erfüllt**{: .label .label-yellow } |
 
 

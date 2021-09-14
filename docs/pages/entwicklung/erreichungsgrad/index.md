@@ -15,8 +15,8 @@ has_children: true
 | NF-002        | Das System muss über ein Mikrophon verfügen                                                                                         |**Wird Erfüllt**{: .label .label-green }  |
 | NF-003        | Das System muss über Lautsprecher verfügen                                                                                          |**Wird Erfüllt**{: .label .label-green }  |
 | NF-004        | Das System soll über eine verbundene steuerbare Lampe verfügen                                                                      |**Wird Erfüllt**{: .label .label-green }  |
-| NF-005        | Das System soll über einen verbunden Erschütterungssensor verfügen                                                                  |**Wird Erfüllt**{: .label .label-green }  |
-| NF-006        | Das System soll über einen verbunden Bewegungssensor verfügen                                                                       |**Wird nicht Erfüllt**{: .label .label-red }  |
+| NF-005        | Das System soll über einen verbundenen Erschütterungssensor verfügen                                                                  |**Wird Erfüllt**{: .label .label-green }  |
+| NF-006        | Das System soll über einen verbundenen Bewegungssensor verfügen                                                                       |**Wird nicht Erfüllt**{: .label .label-red }  |
 |         |                                                                                                                                     |                                                                                                                  |
 | NF-010        | Das System muss ein Sprachassistent sein                                                                                            |**Wird Erfüllt**{: .label .label-green }  |
 | NF-011        | Das System muss datenschutzkonform für die Verwendung in sozialen Einrichtungen sein                                                |**Wird Erfüllt**{: .label .label-green }  |
@@ -28,7 +28,7 @@ has_children: true
 | NF-021        | Das Wake Word soll nicht regelmäßig im allgemeinen Sprachgebrauch von Deutschen vorkommen                                             |**Wird Erfüllt**{: .label .label-green }  |
 | NF-022        | Das System soll nicht abschreckend wirken                                                                                           |**Wird teilweise Erfüllt**{: .label .label-yellow }  |
 | NF-023        | Das System soll leicht zu bedienen und intuitiv sein                                                                                |**Wird teilweise Erfüllt**{: .label .label-yellow }  |
-| NF-024        | Die Bedienung des Systems soll leicht zu erlernen sein                                                                              |**Wird Erfüllt**{: .label .label-green }  |
+| NF-024        | Die Bedienung des Systems soll leicht zu erlernen sein                                                                              |**Wird teilweise Erfüllt**{: .label .label-yellow } |
 | NF-025        | Das System soll leicht zu installieren sein                                              |**Wird teilweise Erfüllt**{: .label .label-yellow }  |
 |         |                                                                                                                                     |                                                                                                                  |
 | F-030         | Das System muss über mindestens ein Wake Word verfügen                                                                                         | **Wird Erfüllt**{: .label .label-green }  |
@@ -59,16 +59,16 @@ has_children: true
 | F-054         | Das System soll den Nutzer ermöglichen das Standard Postleitzahl-Gebiet zu verändern                                                | **Wird Erfüllt**{: .label .label-green }|
 | F-055         | Das System soll zur Wetterabfrage eine geeignete Wissensquelle abfragen können                                                      | **Wird Erfüllt**{: .label .label-green }|
 |         |                                                                                                                                     |                                                                                                                  |
-| F-060         | Das System soll über eine Skill verfügen der bei einer Stillenphase (Mittagsruhe/Arbeitsruhe) unterstützend wirkt                   |  **Wird Erfüllt**{: .label .label-green }|
+| F-060         | Das System soll über eine Skill verfügen der bei einer Stillephase (Mittagsruhe/Arbeitsruhe) unterstützend wirkt                   |  **Wird Erfüllt**{: .label .label-green }|
 | F-061         | Das System soll in der Lage sein eine Stillephase in unterschiedlicher Länge durchzuführen                                          |  **Wird Erfüllt**{: .label .label-green }|
 | F-062         | Das System soll die Lautstärke in seiner Umgebung messen können                                                                     | **Wird teilweise Erfüllt**{: .label .label-yellow }  |
 | F-063         | Das System soll während einer Stillephase Feedback geben sobald eine gewisse Lautstärke überschritten ist                           | **Wird teilweise Erfüllt**{: .label .label-yellow }  |
-| F-064         | Das Feedback in der Stillephase soll nicht ablenkend wirken und die Stillephase unterstützen                                        | **Wird Erfüllt**{: .label .label-green }|
+| F-064         | Das Feedback in der Stillephase soll nicht ablenkend wirken und die Stillephase unterstützen                                        | **Wird teilweise Erfüllt**{: .label .label-yellow } |
 |         |                                                                                                                                     |                                                                                                                  |
 | F-070         | Das System soll über einen Skill Aufpassskill verfügen                                                                              | **Wird Erfüllt**{: .label .label-green }|
 | F-071         | Der Aufpassskill soll eine Lichtschranke und/oder einen Erschütterungssensor aktivieren und bei Auslösen ein Feedback geben            |**Wird Erfüllt**{: .label .label-green }|
 | F-072         | Der Betreuer einer Maßnahme sollen in der Lage sein den Aufpassskill zu aktivieren und zu deaktivieren                              | **Wird Erfüllt**{: .label .label-green }|
 | F-073         | Die Teilnehmer einer Maßnahme sollen in der Lage sein den Aufpassskill zu aktivieren                                                | **Wird Erfüllt**{: .label .label-green }|
 | F-074         | Der Aufpassskill soll als zusätzliche Sicherheit dienen und die Betreuer dazu animieren bei Feedback mal nach der Lage zu schauen   |  **Wird teilweise Erfüllt**{: .label .label-yellow }   |
-| F-075         | Das Feedback des Aufpassskills sollte in Bezug auf Fehlalarme und Ablenkung nicht störend sein                                      | **Wird Erfüllt**{: .label .label-green }|
+| F-075         | Das Feedback des Aufpassskills sollte in Bezug auf Fehlalarme und Ablenkung nicht störend sein                                      | **Wird teilweise Erfüllt**{: .label .label-yellow } |
 
