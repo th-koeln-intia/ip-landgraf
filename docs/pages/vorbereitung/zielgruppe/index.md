@@ -2,7 +2,7 @@
 layout: default
 title: Zielgruppe
 parent: Kennenlernen der Domäne
-nav_order: 2
+nav_order: 1
 
 ---
 
