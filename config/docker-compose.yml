@@ -1,0 +1,67 @@
+version: "3.8"
+services:
+    rhasspy:
+        image: "rhasspy/rhasspy:2.5.11"
+        container_name: rhasspy
+        restart: unless-stopped
+        volumes:
+            - "./rhasspy/profiles:/profiles"
+            - "/etc/localtime:/etc/localtime:ro"
+            - "./rhasspy/noise_sox.prof:/home/noise_sox.prof"
+            - "./rhasspy/alarm_sounds:/home/alarm_sounds:ro"
+            
+        ports:
+            - "12101:12101"
+        devices:
+            - "/dev/snd:/dev/snd"
+        command: --user-profiles /profiles --profile de
+        depends_on: 
+            - mosquitto
+    zigbee2mqtt:
+        image: "koenkk/zigbee2mqtt:1.21.1"
+        container_name: "zigbee2mqtt"
+        restart: unless-stopped
+        volumes:
+            - "./zigbee2mqtt/data/configuration.yaml:/app/data/configuration.yaml"
+            - "./zigbee2mqtt/data/devices.yaml:/app/data/devices.yaml"
+            - "./zigbee2mqtt/data/groups.yaml:/app/data/groups.yaml"
+            - "/run/udev:/run/udev:ro"
+        devices:
+            - "/dev/ttyACM0:/dev/ttyACM0"
+        environment:
+            - "TZ=Europe/Amsterdam"
+        privileged: true
+    mosquitto:
+        image: "arm32v6/eclipse-mosquitto:2.0.11"
+        container_name: mosquitto
+        restart: unless-stopped
+        volumes:
+            - "./mosquitto/mosquitto.conf:/mosquitto/config/mosquitto.conf"
+            - "./mosquitto/log:/mosquitto/log"
+        ports:
+            - "1883:1883"
+            - "9001:9001"
+    nodered:
+        image: "nodered/node-red:2.0.6"
+        container_name: "node-red"
+        restart: unless-stopped
+        environment:
+            - TZ=Europe/Berlin
+        volumes: 
+            - "./node-red/data/:/data/"
+        ports:
+            - "1880:1880"
+        depends_on: 
+            - rhasspy
+    mpd:
+        image: "easypi/mpd-arm"
+        container_name: "mpd"
+        restart: unless-stopped
+        ports:
+            - "6600:6600"
+        volumes:
+            - "./mpd/config:/root/.config/mpd"
+            - "./mpd/music:/var/lib/mpd/music"
+            - "./mpd/playlists:/var/lib/mpd/playlists"
+        devices:
+            - "/dev/snd:/dev/snd"         
