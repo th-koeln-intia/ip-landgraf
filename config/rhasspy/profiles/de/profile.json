@@ -40,7 +40,7 @@
     "wake": {
         "pocketsphinx": {
             "keyphrase": "max max",
-            "threshold": 3.1622776601683795e-10
+            "threshold": 1.0000000000000001e-23
         },
         "raven": {
             "keywords": {
