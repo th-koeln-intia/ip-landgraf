@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FAQ
+title: manuelle Installation
 parent: Installation
 nav_order: 3
 ---

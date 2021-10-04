@@ -24,8 +24,8 @@ Ein Sprachassistent, der da Einsatz finden kann wo herkömmliche Sprachassistent
 Betreute Wohn-, Lehr-, Pflege-, Förder- oder Betreungsmaßnahmen für vulnerable Personengruppen.
 
 ## Arbeitsschritte in diesem Kapitel:
-1. Bestimmung von Stakeholdern des Projektes
-2. Bestimmung der Zielgruppe 
+1. Bestimmung der Zielgruppe 
+2. Bestimmung von Stakeholdern des Projektes
 3. Interviews mit Experten um Domäne besser kennenzulernen
 4. Festlegen von realistischen Ist-Szenarien aus der Domäne
 
