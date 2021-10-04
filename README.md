@@ -1,4 +1,5 @@
-![](assets\images\maxmax-teaserimage.png)
+[](assets\images\maxmax-teaserimage.png)
+
 # [MaxMax](https://ip-landgraf.intia.de)
 MaxMax ist ein mittels [Rhasspy](https://github.com/rhasspy/rhasspy) offlinefähiger Open Source-Sprachassistent für den Einsatz in Pflege-, Betreungs- oder Fördermaßnahmen mit vulnerablen Personengruppen.
 
