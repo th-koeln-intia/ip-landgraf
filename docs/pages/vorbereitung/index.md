@@ -1,29 +1,22 @@
 ---
-layout: default
-permalink: /vorbereitung
+layout: default 
 title: Kennenlernen der Domäne
-nav_order: 3
+nav_order: 4
 has_children: true
 ---
 
-## Grundlage 
-Der Sprachassistent baut auf Arbeitsergebnisse und Erkenntnisse auf, die im Rahmen des Informatikprojektes an der [TH-Köln](https://www.th-koeln.de/) im Wintersemester 2020/2021, erstellt wurden.<br/> Diese Projekte können hier eingesehen werden: 
-
-* [Deep Thought](https://ip-team1.intia.de/)
-* [Heimdall](https://ip-team2.intia.de/)
-* [Apollo](https://ip-team3.intia.de/)
-* [Sherlock ](https://ip-team4.intia.de/)
-* [AliceSprachassistent](https://ip-team5.intia.de/)
 
 
-## Kennenlernen der Projekt-Domäne
-### Prämisse des Projektes 
-Ein Sprachassistent, der da Einsatz finden kann wo herkömmliche Sprachassistenten aus Haftungs- oder Datenschutzgründen nicht eingesetzt werden können. 
 
-### Zu betrachtende Domäne
-Betreute Wohn-, Lehr-, Pflege-, Förder- oder Betreungsmaßnahmen für vulnerable Personengruppen.
+# Kennenlernen der Projekt-Domäne
+## Prämisse des Projektes:
+Ein Sprachassistent, der da Einsatz finden kann wo herkömmliche Sprachassistenten aus Haftungs- oder Datenschutzgründen nicht eingesetzt werden. 
 
-## Arbeitsschritte in diesem Kapitel:
+## Zu betrachtende Domäne:
+Betreute Wohn-, Lehr-, Pflege-, Förder- oder Betreungsmaßnahmen für [vulnerable Personengruppen](/glossar#vulnerable-personenpersonengruppen).
+![](/assets/images/domaneimage.png)
+
+## Arbeitsschritte:
 1. Bestimmung der Zielgruppe 
 2. Bestimmung von Stakeholdern des Projektes
 3. Interviews mit Experten um Domäne besser kennenzulernen

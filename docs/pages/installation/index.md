@@ -1,13 +1,19 @@
 ---
 layout: default
 title: Installation
-nav_order: 2
+nav_order: 3
 has_children: true
 ---
 
+![](/assets/images/hardwareimage.png)
+<br />
 
-## Installation
-MaxMax wurde für einen Raspberry Pi 4 Model B mit 8GB Ram entwickelt, wurde aber auch auf einem Raspberry Pi 3 Model B+ mit 1GB Ram getestet und ist dort lauffähig. 
-Es gibt zwei Varianten MaxMax zu installieren: Einmal per Image-Datei, um direkt und einfach loslegen zu können und eine manuelle Installation, die für die fortgeschritteneren Benutzer geeignet ist. 
+# Installation
+Der Sprachassistent MaxMax wurde auf einem Raspberry Pi 4 Model B mit 8GB Ram entwickelt, wurde aber auf einem Raspberry Pi 3 Model B+ mit 1GB Ram getestet und ist dort ebenfalls lauffähig mit langsameren Reaktionszeiten. 
+Zu erst wird [hier](/hardware.md) ein kleiner Überblick über die benötigte Hardware geben, damit der Sprachassistent MaxMax installiert werden kann und das Nutzungserlebniss wie das hier Beschriebene ist. 
 
-Zu aller erst wird jedoch noch ein kleiner Überblick über die benötigte Hardware geben. Damit ihr, egal welche Installationsvariante gewählt wird, genau gefolgt werden kann und das Nutzungserlebniss dem hier Beschriebenen gleicht.
+### Um MaxMax dann auf der Hardware zu installieren gibt es zwei Varianten: 
+- [per Image-Datei](/imageInsta.md), um direkt und einfach loslegen zu können 
+- [eine manuelle Installation](/manuelleInsta.md), die für die fortgeschritteneren Benutzer geeignet ist
+
+

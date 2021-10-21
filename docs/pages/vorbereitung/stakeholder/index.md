@@ -6,7 +6,9 @@ nav_order: 2
 ---
 
 
-## Stakeholder Auflistung 
+# Stakeholder 
+
+## Auflistung 
 
 | Identifikator    | Name des Stakeholders      | Organisation oder Einzelperson    | Macht im / über das System | Zu erwartender Einfluss auf die Stakeholder |
 |-----------------|---------------------------| ----------------------------------|:---------------------------------:|:---------------------------------:|

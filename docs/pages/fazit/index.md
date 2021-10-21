@@ -1,12 +1,11 @@
 ---
 layout: default
-permalink: /fazit
 title: Fazit des Projektes
-nav_order: 6
+nav_order: 7
 ---
 
 
-## Fazit
+# Fazit
 
 
 

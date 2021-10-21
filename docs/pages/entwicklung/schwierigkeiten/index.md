@@ -1,11 +1,10 @@
 ---
 layout: default
 parent: Vorgehen in der Entwicklung
-title: Entwicklungsverlauf
-nav_order: 3
-has_children: true
+title: Schwierigkeiten
+nav_order: 4
 ---
 
 
-
+# Schwierigkeiten
 

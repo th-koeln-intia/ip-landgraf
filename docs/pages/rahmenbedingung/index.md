@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Rahmenbedingungen
-nav_order: 4
+nav_order: 5
 has_children: true
 ---
 
-## Hier finden sich die erstellten Anforderungen und äußeren Faktoren die in der Entwicklung berücksichtigt werden müssen
+## Rahmenbedingungen des Projektes
+Für den Sprachassistenten MaxMax 
 
 
 ## Arbeitsschritte

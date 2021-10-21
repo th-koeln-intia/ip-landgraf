@@ -1,6 +1,7 @@
 ---
 layout: default
-parent: Archiv
+grand_parent: Vorgehen in der Entwicklung
+parent: Entwicklungsverlauf
 title: Stand 14.09
 nav_order: 4
 has_toc: false
