@@ -36,7 +36,36 @@ Sprachassistenten zeichnen sich in der Regel durch diese fünf Merkmale und glei
 4. Skills
 5. Text To Speech
 
+## Stakeholder
+{: .text-green-000}
+_aus [Gabler Wirtschaftslexikon - Prof. Dr. Jean-Paul Thommen](https://wirtschaftslexikon.gabler.de/definition/anspruchsgruppen-27010):_
+
+* "Stakeholders; Anspruchsgruppen sind alle internen und externen Personengruppen, die von den unternehmerischen Tätigkeiten gegenwärtig oder in Zukunft direkt oder indirekt betroffen sind. Gemäß Stakeholder-Ansatz wird ihnen - zusätzlich zu den Eigentümern (Shareholders) - das Recht zugesprochen, ihre Interessen gegenüber der Unternehmung geltend zu machen. Eine erfolgreiche Unternehmungsführung muss die Interessen aller Anspruchsgruppen bei ihren Entscheidungen berücksichtigen (Social Responsiveness). Die Abbildung „Anspruchsgruppen” zeigt die internen und externen Anspruchsgruppen sowie deren Ansprüche und Erwartungen an die Unternehmung."
+
+### Im Falle des Projektes:
+*  Alle internen und externen Personengruppen, die vom im Projekt entwickelten Sprachassistenten gegenwärtig oder in Zukunft direkt oder indirekt betroffen sind.
+
+## Terminal 
+{: .text-green-000} 
+* In der Dokumentation ist das Wort Terminal stellvertretend für eine kommando-orientierte Shell benutzt worden. Hierin werden Kommandos an den Computer direkt eingeben, anstelle mit der Maus auf dem Bildschirm zu klicken und in Feldern Informationen einzutragen. Auf dem Raspberry Pi OS ist standartmäßig das "LXTerminal" installiert.<br /> 
+Ein Terminal kann so aussehen:<br />
+![](/assets/images/terminal.png) <br /> 
+
 ## Vulnerable Personen/Personengruppen
 {: .text-green-000}  
 * Personen, die soziale, gesundheitliche oder kognitive Einschränkungen haben und dadurch Schwierigkeiten, ihre eigenen Interessen in Bezug auf Erkrankung, Entkräftung, soziale Entwicklung, geistige Entwicklung, psychische Krankheiten oder kognitive Beeinträchtigungen zu schützen und/oder zu vertreten.
 
+## Zielgruppe
+{: .text-green-000}
+_aus [Gabler Wirtschaftslexikon - Prof. Dr. Manfred Kirchgeorg](https://wirtschaftslexikon.gabler.de/definition/zielgruppe-48977):_
+
+* Adressaten; Gesamtheit aller effektiven oder potenziellen Personen, die mit einer bestimmten Marketingaktivität angesprochen werden sollen. <br />
+[...] <br />
+Arten: <br />
+1. Soziodemographische Zielgruppe (z.B. Alter, Geschlecht, Bildung);
+2. Zielgruppe aufgrund von verhaltensorientierten Merkmalen (z.B. Intensivverwender, Erstkäufer);
+3. Zielgruppe aufgrund psychologischer Merkmale (z.B. innovationsfreudig, sicherheitsorientiert);
+4. Zielgruppe aufgrund medienorientierter Merkmale (Nutzer bestimmter Medien).
+
+### Im Falle des Projektes:
+*  Gesamtheit aller effektiven oder potenziellen Personen, die vom im Projekt entwickelten Sprachassistenten angesprochen werden sollen.

@@ -7,18 +7,18 @@ nav_order: 2
 
 # Was ist ein Sprachassistent?
 Ein Sprachassistent ist ein System, dass verschiedene Sprachbefehle verarbeiten kann und durch diese bestimmte Aktionen ausführt. 
-Sprachassistenten zeichnen sich in der Regel durch diese fünf Merkmale und gleichzeitig chronolgische Nutzungsschichten aus:
+Sprachassistenten zeichnen sich durch fünf Merkmale und gleichzeitig chronolgische Nutzungsschichten aus, die hier am Beispiel eines Sprachbefehls und der Aktion des Sprachassistenten darauf verdeutlicht werden sollen:
 
 | Sprachbefehl: "MaxMax? ... Wie ist das Wetter in Köln?" | Antwort: "das wetter in köln ist sonnig" |
 
 ![](/assets/images/merkmaleimage.png)
 
 1. Wake Word Spotter - Weckworterkennung<br />
-Wenn der Sprachassistent eingeschaltet ist hört die Weckworterkennung immer zu und wartet darauf das sie ein bestimmtes Muster im Audioeingangssignal erkennt.
+Wenn der Sprachassistent eingeschaltet ist, hört die Weckworterkennung immer zu und wartet darauf das sie ein bestimmtes Muster im Audioeingangssignal erkennt.
 Erst wenn dieses Weckwort erkannt (Beispiel: "MaxMax") wird, verarbeitet der Sprachassistent die nachfolgenden Wörter oder Sätze.
 
 2. Speech To Text - Sprache-Zu-Text<br />
-In der zweiten Schicht wandelt der Sprachassistent, den auf das Weckwort folgenden Sprachbefehl in Text um (Beispiel: "wie ist das wetter in köln"). 
+In der zweiten Schicht wandelt der Sprachassistent, den auf das Weckwort folgenden Sprachbefehl in Text um (Beispiel: "wie ist das wetter in köln"), um in dann weiterverarbeiten zu können. 
 
 3. Intent Parsing And Entity Recognition - Absichtsanalyse und Entitätenerkennung<br />
 Der Sprachassistent entschlüsselt aus dem Text eine Absicht und erkennt mitgegebene Entitäten des Nutzers (Beispiel: 1. "wie"+"wetter" = Wetterabfrage | 2. "köln" = Wetterabfrage für Köln).
