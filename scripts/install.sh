@@ -19,7 +19,7 @@ cd ./MaxMax/node-red/data
 npm i -g n
 n stable
 bash -lic "npm i"
-apt -y autoremove
+apt autoremove -y 
 cd ..
 cd ..
 cd ..
