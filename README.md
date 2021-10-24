@@ -13,9 +13,7 @@ Mittels des [Raspberry Pi Imager](https://www.raspberrypi.org/software/) kann da
 Nach Abschluss des Schreibvorgangs muss die SD-Karte nur noch in den Raspberry Pi gesteckt werden und der Pi mit der [angeschlossenen benötigten Hardware](https://ip-landgraf.intia.de/pages/installation/Hardware.html) gestartet werden. Nach einer kurzen Wartezeit sollten Sie eine Willkommensnachricht von MaxMax hören.
 
 # Installation mittels Shell-Script
-Um MaxMax manuell zu installieren muss zuerst auf dem Raspberry Pi das Raspberry Pi OS Betriebssystem installiert sein: <br />
-
-![](/assets/images/piosimage.png) <br />
+Um MaxMax manuell zu installieren muss zuerst auf dem Raspberry Pi das Raspberry Pi OS Betriebssystem installiert sein. <br />
 
 In manchen Raspberry Pi-Paketen ist es vorab schon auf der Micro SD Karte installiert, ansonsten kann man es mittels [Raspberry Pi Imager](https://www.raspberrypi.org/software/) installiert werden.
 Sobald das Betriebssystem auf der Micro SD Karte vorhanden ist, kann es losgehen:
@@ -29,9 +27,7 @@ Wichtig für die MaxMax Installation ist:
 - es wird empfohlen, ein neues Passwort zu bestimmen
 
 Wenn die Einrichtungskonfiguration abgeschlossen ist, sollte der Raspberry Pi einmal neugestartet werden (Darauf weißt die Einrichtungskonfiguration am Ende ebenfalls hin).<br />
-Nach dem Neustart des Raspberry Pi muss das [Terminal](/glossar#terminal) (Viertes Symbol oben links) geöffnet werden: <br />
-
-![](/assets/images/terminal1.png) <br />
+Nach dem Neustart des Raspberry Pi muss das [Terminal](/glossar#terminal) (Viertes Symbol oben links) geöffnet werden. <br />
 
 Zum Runterladen des Installations-Scripts kann dann folgende Anweisung in das [Terminal](/glossar#terminal) eingegeben werden:
 
@@ -47,9 +43,7 @@ sudo ./install.sh
 ```
 <br />
 
-![](/assets/images/scriptHold.png) <br />
-
-Wenn das Script wie auf dem Bild oben vor Ablauf anhalten sollte, kann es mit folgendem Befehl fortgesetzt werden: <br />
+Wenn das Script vor Ablauf anhalten sollte, kann es mit folgendem Befehl fortgesetzt werden: <br />
 
 ```shell
 fg 1
@@ -57,23 +51,21 @@ fg 1
 
 Am Ende des Vorgangs startet der Raspberry Pi automatisch einmal neu. <br /> Um den Sprachassistent MaxMax nun zu starten muss man in den Ordner mit dem Namen "MaxMax" gehen (Dieser befindet sich in dem Ordner von dem aus die install.sh ausgeführt wurde). Da der Befehl zum Starten von MaxMax wieder im [Terminal](/glossar#terminal) eingegeben werden muss, gibt es um zum Ordner zu gelangen zwei Möglichkeiten:
 
-- Entweder man bewegt sich durch die Ordnerstruktur und wählt im "MaxMax"-Ordner Folgendes aus: <br />
-
-![](/assets/images/folder1.png)<br />
-![](/assets/images/folder2.png)<br />
-![](/assets/images/folder3.png)<br />
-![](/assets/images/folder4.png)<br />
+- Entweder man bewegt sich durch die Ordnerstruktur und wählt im "MaxMax"-Ordner im Reiter "Werkzeuge" den Punkt "Aktuellen Ordner im Terminal öffnen"  aus. <br />
 
 
-- Oder man startet das [Terminal](/glossar#terminal) (siehe oben) und gibt Folgendes ein:
+- Oder man startet das [Terminal](/glossar#terminal) und gibt Folgendes ein:
 
 ```shell
 cd MaxMax
 ```
 
-Im richtigen Ordner sollte folgendes im [Terminal](/glossar#terminal) zu sehen sein: <br />
+Im richtigen Ordner sollte folgendes im [Terminal](/glossar#terminal) zu sehen sein <br />
 
-![](/assets/images/folder5.png) <br />
+```shell
+pi@raspberrypi:~/MaxMax $
+```
+
 
 Nun kann mit diesem Befehl MaxMax gestartet werden:
 
