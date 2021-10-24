@@ -46,6 +46,7 @@ chmod 777 install.sh
 sudo ./install.sh
 ```
 <br />
+
 ![](/assets/images/scriptHold.png) <br />
 
 Wenn das Script wie auf dem Bild oben vor Ablauf anhalten sollte, kann es mit folgendem Befehl fortgesetzt werden: <br />
