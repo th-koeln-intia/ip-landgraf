@@ -18,8 +18,8 @@ Keine Onlineverbindung auf dem Raspberry Pi benötigt
 {: .label .label-green }
 </div>
 
-Das komprimierte Image kann [hier](https://drive.google.com/file/d/1rsfCCy5GsPeIJup7GpszWAbtiVu9NVtj/view?usp=sharing) runtergeladen werden.
-Es muss dann erstmal entpackt werden. Dies kann, wenn nicht schon ein passendes Programm auf dem Computer installiert ist, zum Beispiel mit einem der folgenden kostenlosen Programme erfolgen:
+Das komprimierte Image vom Sprachassistenten MaxMax kann [hier](https://drive.google.com/file/d/1rsfCCy5GsPeIJup7GpszWAbtiVu9NVtj/view?usp=sharing) runtergeladen werden. <br />
+Es muss dann erstmal entpackt werden. <br /> Dies kann, wenn nicht schon ein passendes Programm auf dem Computer installiert ist, zum Beispiel mit einem der folgenden kostenlosen Programme erfolgen:
 - [7-Zip](https://www.7-zip.de/)<br />
 
 ![](/assets/images/7zip1.png)<br />
@@ -32,7 +32,7 @@ Es muss dann erstmal entpackt werden. Dies kann, wenn nicht schon ein passendes 
 Mittels des [Raspberry Pi Imager](https://www.raspberrypi.org/software/) kann dann das entpackte Image auf eine Micro SD-Karte geschrieben werden. <br />
 ![](/assets/images/piimagerimage2.png)<br />
 ![](/assets/images/piimagerimage3.png)<br />
-Nach Abschluss des Schreibvorgangs muss die Micro SD-Karte nur noch in den Raspberry Pi gesteckt werden und der Raspberry Pi mit der angeschlossenen benötigten Hardware gestartet werden. Nach einer kurzen Zeit sollten eine Willkommensnachricht von MaxMax zu hören sein. Geschafft!
+Nach Abschluss des Schreibvorgangs muss die Micro SD-Karte nur noch in den Raspberry Pi gesteckt werden und der Raspberry Pi mit der angeschlossenen benötigten Hardware gestartet werden. Nach einer kurzen Zeit ist eine Willkommensnachricht von MaxMax zu hören. Geschafft!
 
 ## Wichtig! - Benutzerkonto und Passwort:
 

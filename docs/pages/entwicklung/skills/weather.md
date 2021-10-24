@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 
-# Wetter Skills
+# Wetterskills
 <div class="labels" markdown="1">
 Onlineverbindung benötigt
 {: .label .label-yellow }

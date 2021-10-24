@@ -70,6 +70,24 @@ sudo nmcli --ask dev wifi connect SSID-NETZWERK
 Hierbei muss "SSID-NETZWERK" mit der SSID des gewünschten Netzwerks ersetzt werden.
 Nach Eingabe des Befehls wird nach dem Passwort des Netzwerks gefragt.
 
+## Die Lampe [verbinden](https://www.zigbee2mqtt.io/devices/404001.html):
+In Reichweite des Sprachassistenten mit angeschlossenem ZigBee USB-Stick:
+
+1. Licht einschalten.
+2. Licht für 2 Sekunden ausschalten.
+3. Licht für 1 Sekunde einschalten.
+4. Punkt 2 und 3 sechs Mal wiederholen.
+5. Nach erfolgreicher Verbindungsherstellung flackert die Lampe auf.
+
+## Den Erschütterungssensor [verbinden](https://www.zigbee2mqtt.io/devices/DJT11LM.html):
+In Reichweite des Sprachassistenten mit angeschlossenem ZigBee USB-Stick:
+1. Reset-Knopf des Erschütterungssensors für 5 Sekunden drücken.
+2. Die LED leuchter 3 Mal auf.
+3. Danach den Reset-Knopf alle 2 Sekunden kurz drücken.
+4. Vorgang maximal 20 Mal wiederholen.
+
+Falls keine Verbindung hergestellt werden kann, kann dies an der Batterie des Erschütterungssensors liegen. Das Ersetzen von dieser mit einer neuen, aufgeladenen Batterie kann das Verbindungsproblem lösen. 
+
 # Zugriff von außen:
 
 <div class="labels" markdown="1">

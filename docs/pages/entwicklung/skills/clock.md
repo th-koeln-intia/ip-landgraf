@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 
-# Uhrzeit Skill
+# Uhrzeitskill
 <div class="labels" markdown="1">
 Offlinefähig
 {: .label .label-green }

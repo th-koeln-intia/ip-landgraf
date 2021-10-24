@@ -16,7 +16,10 @@ Um MaxMax manuell zu installieren muss zuerst auf dem Raspberry Pi das Raspberry
 
 ![](/assets/images/piosimage.png) <br />
 
-In manchen Raspberry Pi-Paketen ist es vorab schon auf der Micro SD Karte installiert, ansonsten kann man es mittels [Raspberry Pi Imager](https://www.raspberrypi.org/software/) installiert werden.
+In manchen Raspberry Pi-Paketen ist es vorab schon auf der Micro SD Karte installiert, ansonsten kann man es mittels [Raspberry Pi Imager](https://www.raspberrypi.org/software/) installiert werden: 
+
+![](/assets/images/choseRaspOs.png) <br />
+
 Sobald das Betriebssystem auf der Micro SD Karte vorhanden ist, kann es losgehen:
 Die Karte muss in den Raspberry Pi gesteckt werden. Um ihn bedienen zu können empfiehlt es sich einen Bildschirm, eine Tastatur und eine Maus angeschlossen zu haben. <br /> <br />(Nicht Notwendig: Um in Zukunft den Raspberry Pi ohne Bildschirm, Tastatur und Maus zu bedienen, kann beim ersten Starten nach der Einrichtungskonfiguration [SSH](/ersteSchritte#per-ssh---bedienung-ausschließlich-über-terminal) und [VNC](/ersteSchritte#per-vnc---bedienung-mit-benutzeroberfläche) eingerichtet werden.) <br />
 <br />
@@ -80,7 +83,7 @@ sudo docker-compose up
 ```
 
 Beim ersten Starten von MaxMax werden die Docker Images der einzelnen Komponenten runtergeladen. Der Vorgang kann dadurch eine Weile dauern (ca. 10 Minuten).<br />
-Nach Ablauf sollte eine Willkommensnachricht von MaxMax zu hören sein. Geschafft!
+Nach Ablauf ist eine Willkommensnachricht von MaxMax zu hören. Geschafft!
 
 ## Wie geht es weiter?
 Informationen zur Nutzung und Konfiguartion von MaxMax und seiner Bestandteile sind im Bereich ["erste Schritte"](/ersteSchritte.md) zu finden. 

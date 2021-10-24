@@ -7,7 +7,7 @@ nav_order: 5
 ---
 
 
-# Lampen Skills
+# Lampenskills
 <div class="labels" markdown="1">
 Offlinefähig
 {: .label .label-green }
@@ -19,6 +19,8 @@ Benötigt Lampe
 ## Erklärung:
 MaxMax kann eine Lampe [ein-](#1-lampe-einschalten) und [ausschalten](#2-lampe-ausschalten), sofern sie verbunden ist.<br/> 
 
+### Wichtig:
+Es ist nicht möglich bei aktivem [Stillemodus](/silence.md) oder [Aufpassmodus](/attention.md) die Lampe zu bedienen! Es ertönt dann beim Versuch eine Hinweisnachricht.
 
 ## Sprachbefehle:
 ### 1. Lampe einschalten 

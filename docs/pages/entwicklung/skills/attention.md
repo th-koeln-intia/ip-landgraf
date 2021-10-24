@@ -7,7 +7,7 @@ nav_order: 7
 ---
 
 
-# Aufpass Skills
+# Aufpassskills
 <div class="labels" markdown="1">
 Offlinefähig
 {: .label .label-green }
@@ -24,7 +24,10 @@ Benötigt Erschütterungssensor
 MaxMax verfügt über einen Aufpassmodus, der ein Feedback gibt, sobald Erschütterungen in einem Sensor erkannt werden.<br/> Dieser kann nur in Verbindung mit der Lampe und dem Erschütterungssensor genutzt werden.<br/> MaxMax würde, falls einer der beiden Komponenten nicht verbunden ist, darauf hinweisen und den Modus nicht starten.<br/>
 Bei [Aktivierung des Aufpassmodus](#1-aufpassmodus-einschalten) verfärbt sich die Lampe gelb um zu Bestätigen das MaxMax ab diesem Zeitpunkt aufpasst.<br/>
 Wenn im aktiven Aufpassmodus durch den Erschütterungssensor ein Erschütterung erkannt wird, wird ein Licht- und Sound-Feedback gegeben.<br/> Bei weiteren Erschütterung gibt MaxMax weiterhin Sound-Feedbacks.
-Das Licht-Feedback geht aber erst wieder aus, wenn der [Auspassmodus zurückgesetzt](#2-alarm-zurücksetzen) oder [beendet](#3-aufpassmodus-ausschalten) wird. Durch das Zurücksetzen des Aufpassmodus färbt sich nach einem Sound-Feedback die Lampe wieder gelb und der Aufpassmodus startet von vorne. 
+Das Licht-Feedback geht aber erst wieder aus, wenn der [Auspassmodus zurückgesetzt](#2-alarm-zurücksetzen) oder [beendet](#3-aufpassmodus-ausschalten) wird. Durch das Zurücksetzen des Aufpassmodus färbt sich nach einem Sound-Feedback die Lampe wieder gelb und der Aufpassmodus startet von vorne. <br/>
+
+### Wichtig:
+Es ist nicht möglich bei aktivem [Stillemodus](/silence.md) den Aufpassmodus zu aktivieren! Es ertönt dann beim Versuch eine Hinweisnachricht.
 
 
 

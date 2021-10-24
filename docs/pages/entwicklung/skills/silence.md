@@ -7,7 +7,7 @@ nav_order: 6
 ---
 
 
-# Stille Skills
+# Stilleskills
 <div class="labels" markdown="1">
 Offlinefähig
 {: .label .label-green }
@@ -21,8 +21,13 @@ Benötigt Lampe
 MaxMax verfügt über einen Stillemodus, der ein Feedback gibt, sobald eine gewisse Unruhe (Root Mean Square-Leistung) durch das Mikrofon festgestellt wird.<br/> Dieser kann nur in Verbindung mit der Lampe genutzt werden.<br/> MaxMax würde, falls die Lampe nicht verbunden ist, darauf hinweisen und den Modus nicht starten.<br/>
 Bei [Aktivierung des Stillemodus](#1-stillemodus-einschalten) verfärbt sich die Lampe blau.<br/>
 Wenn im aktiven Stillemodus durch das Mikrofon eine Unruhe im Audioeingangssignal festgestellt wird, wird ein Licht-Feedback in 2. Eskalationsstufen (violet und rot) gegeben.<br/>
-Der Stillemodus kann [beendet](#2-stillemodus-ausschalten) werden. 
+Der Stillemodus kann [beendet](#2-stillemodus-ausschalten) werden. <br/>
 
+### Wichtig:
+Es ist nicht möglich bei aktivem [Aufpassmodus](/attention.md) den Stillemodus zu aktivieren! Es ertönt dann beim Versuch eine Hinweisnachricht.
+
+### Inklusiv Desing:
+Die Stille Skills sind ein schönes Beispiel für einen Nutzen aus dem zweiten Prinzip des [Inklusiv Designs](/pages/vorbereitung/inclusiveDesign/). Es ist denkbar, dass die Skills zum Beispiel auch in einer Hausaufgabenbetreung oder einer Spielphase in einer der [Maßnahmen](/glossar#maßnahme) mit jüngeren [vulnerablen Personen](/glossar#vulnerable-personenpersonengruppen) nutzbar oder interessant sein könnten.  
 
 ## Sprachbefehle:
 ### 1. Stillemodus einschalten 

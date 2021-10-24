@@ -25,7 +25,7 @@ Dies ermöglicht zwar die Einsparung von Ressourcen und eine bessere Erkennung d
 Grundsätzlich dürfen in solchen [Maßnahmen](/glossar#maßnahme) nur Daten, die zur Erfüllung der Tätigkeit gebraucht werden, gesammelt werden und vorallem nicht einfach weitergegeben werden. 
 <br/> Durch das Auslagern der Auswertung ist es jedoch undurchsichtig welche Daten gesammelt werden. <br/> 
 Eine Einwilligungserklärung könnte die Nutzung und Weitergabe von Daten erlauben, allerdings ist hier in den [Maßnahmen](/glossar#maßnahme) das Problem, dass sobald ein Teilnehmer diese nicht erteilen möchte, durch die Art und Weise wie Sprachassistenten funktionieren, es für die gesamte [Maßnahmen](/glossar#maßnahme) nicht nutzbar wäre, da der Sprachassistent vor dem Auswerten nicht erkennt was der Inhalt des eingegangen Audiosignals ist und wer auf diesem zu hören ist. <br/> 
-In der Pfege kommt zusätzlich im medizinischen Bereich noch der hippokratische Eid und damit eine ethische Grundregel zum Tragen, deren Missachten mit besonder Schwere geahndet werden würde (§ 203 Strafgesetzbuch). 
+In der Pfege kommt zusätzlich im medizinischen Bereich noch der hippokratische Eid und damit eine ethische Grundregel zum Tragen, deren Missachten mit besonderer Schwere geahndet werden würde (§ 203 Strafgesetzbuch). 
 
 
 

@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 
-# Timer/Alarm Skills 
+# Timer-/Alarmskills 
 <div class="labels" markdown="1">
 Offlinefähig
 {: .label .label-green }

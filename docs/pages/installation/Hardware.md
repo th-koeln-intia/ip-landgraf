@@ -32,7 +32,6 @@ Damit MaxMax zuhören kann, braucht es ein Mikrofon.<br />
 Als Mikrofon kam der ReSpeaker 4-Mic Array zum Einsatz mit guter Leistung auch bei Sprachbefehlen von etwas weiter weg.
 <br />
 ![](/assets/images/micimage.png)
-
 <br />
 
 ## Lautsprecher:
@@ -41,12 +40,11 @@ Im Projekt wurde mit den Logi Stereo Lautsprecher Z120 gearbeitet. Dieser benöt
 Es kann jeder Lautsprecher mit einem 3,5 mm Klinkenstecker (Der Raspberry PI verfügt über einen Aux-Eingang) benutzt werden. 
 <br />
 ![](/assets/images/auximage.png)
-
 <br />
 
 ## ZigBee USB-Stick:
 <div class="labels" markdown="1">
-benötigt für Lampen-, Aufpass- und Stilleskill
+benötigt für die Lampen-, Aufpass- und Stilleskills
 {: .label .label-yellow }
 </div>
 
@@ -54,12 +52,11 @@ Damit MaxMax sich mit der Lampe und dem Erschütterungssensor verbinden kann, br
 Im Projekt wurde mit dem CC2531 ZigBee USB-Stick gearbeitet. Zu empfehlen ist es sich gleich einen Stick mit vorinstallierter Firmware zu besorgen, da das selber "flashen" sehr aufwendig und kompliziert ist.
 <br />
 ![](/assets/images/zigbeeimage.png)
-
 <br />
 
 ## Lampe:
 <div class="labels" markdown="1">
-benötigt für Lampen-, Aufpass- und Stilleskill
+benötigt für die Lampen-, Aufpass- und Stilleskills
 {: .label .label-yellow }
 </div>
 
@@ -72,7 +69,7 @@ Im Projekt wurde mit der tint LED-Birnenform white+color (Artikel-Nr.: 404000) v
 ## Erschütterungssensor:
 
 <div class="labels" markdown="1">
-benötigt für den Aufpassskill
+benötigt für die Aufpassskills
 {: .label .label-yellow }
 </div>
 
@@ -93,7 +90,7 @@ Im Projekt wurde mit dem Aqara Vibrationssensor (Artikel-Nr.: DJT11LM) von Xiaom
 - ReSpeaker 4-Mic Array
 - Lautsprecher mit 3,5 mm Klinkenstecker
 
-## Für Lampen-, Aufpass- und Stilleskill benötigt:
+## Für Lampen-, Aufpass- und Stilleskills benötigt:
 - CC2531 ZigBee USB-Stick mit vorinstallierter Firmware
 - tint LED-Birnenform white+color (Artikel-Nr.: 404000) von Müller-Licht
 - Aqara Vibrationssensor (Artikel-Nr.: DJT11LM) von Xiaomi

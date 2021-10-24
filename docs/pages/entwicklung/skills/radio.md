@@ -7,7 +7,7 @@ nav_order: 4
 ---
 
 
-# Radio Skills
+# Radioskills
 <div class="labels" markdown="1">
 Onlineverbindung benötigt
 {: .label .label-yellow }
