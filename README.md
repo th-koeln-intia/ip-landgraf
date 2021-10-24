@@ -4,13 +4,13 @@
 MaxMax ist ein mittels [Rhasspy](https://github.com/rhasspy/rhasspy) umgesetzter offlinefähiger Open Source-Sprachassistent für den Einsatz in Pflege-, Betreungs- oder Fördermaßnahmen mit vulnerablen Personengruppen. 
 
 # Installation mittels Image-Datei
-Das Image kann [hier](https://drive.google.com/file/d/1rsfCCy5GsPeIJup7GpszWAbtiVu9NVtj/view?usp=sharing) runtergeladen werden.
-Es muss dann erstmal entpackt werden. Dies kann, wenn Sie nicht schon ein passendes Programm auf ihrem Computer besitzen, zum Beispiel mit einem der folgenden kostenlosen Programmen erfolgen:
+Das komprimierte Image vom Sprachassistenten MaxMax kann [hier](https://drive.google.com/file/d/1rsfCCy5GsPeIJup7GpszWAbtiVu9NVtj/view?usp=sharing) runtergeladen werden.
+Es muss dann erstmal entpackt werden. Dies kann, wenn nicht schon ein passendes Programm dem Computer installiert ist, zum Beispiel mit einem der folgenden kostenlosen Programmen erfolgen:
 - [7-Zip](https://www.7-zip.de/)
 - [WinRAR (40 Tage kostenloser Testzeitraum)](https://winrar.de/downld.php)
 
 Mittels des [Raspberry Pi Imager](https://www.raspberrypi.org/software/) kann dann das entpackte Image auf eine SD Karte geschrieben werden.
-Nach Abschluss des Schreibvorgangs muss die SD-Karte nur noch in den Raspberry Pi gesteckt werden und der Pi mit der [angeschlossenen benötigten Hardware](https://ip-landgraf.intia.de/pages/installation/Hardware.html) gestartet werden. Nach einer kurzen Wartezeit sollten Sie eine Willkommensnachricht von MaxMax hören.
+Nach Abschluss des Schreibvorgangs muss die SD-Karte nur noch in den Raspberry Pi gesteckt werden und der Pi mit der [angeschlossenen benötigten Hardware](https://ip-landgraf.intia.de/pages/installation/Hardware.html) gestartet werden. Nach einer kurzen Wartezeit ist eine Willkommensnachricht von MaxMax zu hören.
 
 # Installation mittels Shell-Script
 Um MaxMax manuell zu installieren muss zuerst auf dem Raspberry Pi das Raspberry Pi OS Betriebssystem installiert sein. <br />
@@ -74,4 +74,8 @@ sudo docker-compose up
 ```
 
 Beim ersten Starten von MaxMax werden die Docker Images der einzelnen Komponenten runtergeladen. Der Vorgang kann dadurch eine Weile dauern (ca. 10 Minuten).<br />
-Nach Ablauf sollte eine Willkommensnachricht von MaxMax zu hören sein.
+Nach Ablauf ist eine Willkommensnachricht von MaxMax zu hören.
+
+# Benutzung von MaxMax
+Umgesetzte Skills können [hier](/pages/entwicklung/skills/) eingesehen werden.
+Informationen zur weiteren Nutzung und Konfiguartion von MaxMax und seiner Bestandteile können [hier](/ersteSchritte.md) eingesehen werden. 
