@@ -38,7 +38,7 @@ Nach dem Neustart des Raspberry Pi muss das [Terminal](/glossar#terminal) (Viert
 Zum Runterladen des Installations-Scripts kann dann folgende Anweisung in das [Terminal](/glossar#terminal) eingegeben werden:
 
 ```shell
-wget https://raw.githubusercontent.com/th-koeln-intia/ip-landgraf/main/install/install.sh
+wget https://raw.githubusercontent.com/th-koeln-intia/ip-landgraf/main/scripts/install.sh
 ```
 
 Damit die Konfigurationen und alle sonst auf dem Raspberry Pi von MaxMax benötigte Software runtergeladen wird, muss das Script nun ausgeführt werden. Der Vorgang kann eine Weile dauern (ca. 10 - 15 Minuten). Die Befehle sind:

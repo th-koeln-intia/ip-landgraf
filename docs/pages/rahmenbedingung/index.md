@@ -5,12 +5,7 @@ nav_order: 5
 has_children: true
 ---
 
-# Rahmenbedingungen des Projektes
-Für den Sprachassistenten MaxMax 
-
-
-## Arbeitsschritte
-* Festhalten der äußeren Faktoren die für das Projekt eine Rolle spielen
-* Erarbeiten von Anforderungen an den Sprachassistenten
+# Rahmenbedingungen an den Sprachassistenten
+Es wurden die [Faktoren](aeusssereFaktoren), die auf das Projekt einwirken, und damit für den Sprachassistenten eine Rolle spielen festgehalten. <br/> Danach wurden aus diesen und den Erkenntnissen aus der Domänen-Analyse [Anforderungen](anforderungen) gebildet. 
 
 

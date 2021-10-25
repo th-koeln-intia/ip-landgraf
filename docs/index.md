@@ -20,5 +20,7 @@ Im Anschluss wird auf den [Entwicklungsverlauf](/pages/entwicklung) des Sprachas
 Dann kommt ein [Fazit](/pages/fazit) zum Praxisprojekt. <br />
 Zum Schluss gibt es noch ein [Glossar](/glossar) und ein [Impressum](/pages/impressum).
 
+## [Warum eigentlich "MaxMax"?](/pages/entwicklung/entscheidungsfindung/#entscheidungsfindung---weckwort)
+
 
 

@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 # Zielgruppe
-Um Festzulegen für wenn das Projekt eigentlich entwickelt wird, wurde eine Zielgruppe definiert. Folgenden Definition wurde festgehalten:
+Um Festzulegen für wenn das Projekt eigentlich entwickelt wird, wurde eine [Zielgruppe](/glossar#zielgruppe) definiert. Folgenden Definition wurde festgehalten:
 
 * Personen, die in einem deutschsprachigen Land leben und mittels selbstständiger Sprachverwendung oder besser die Sprache Deutsch sprechen. <br/>
  

@@ -7,7 +7,7 @@ nav_order: 1
 
 
 # Analyse 
-Der Sprachassistent baut auf Arbeitsergebnisse und Erkenntnisse auf, die im Rahmen des [Informatikprojektes](https://www.archi-lab.io/pages/viewpage.action?pageId=41156613) an der [TH-Köln](https://www.th-koeln.de/) im Wintersemester 2020/2021, erstellt wurden.<br/> Diese Projekte können hier eingesehen werden: 
+Der Sprachassistent baut auf Arbeitsergebnisse und Erkenntnisse auf, die im Rahmen des [Informatikprojektes](https://www.archi-lab.io/pages/viewpage.action?pageId=41156613) an der [TH-Köln](https://www.th-koeln.de/) im Wintersemester 2020/2021, erstellt und gesammelt wurden.<br/> Diese Projekte können hier eingesehen werden: 
 
 * [Deep Thought](https://ip-team1.intia.de/)
 * [Heimdall](https://ip-team2.intia.de/)

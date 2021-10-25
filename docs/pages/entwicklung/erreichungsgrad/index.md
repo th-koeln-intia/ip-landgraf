@@ -3,11 +3,29 @@ layout: default
 parent: Vorgehen in der Entwicklung
 title: Erreichungsgrad der Anforderungen
 nav_order: 6
-has_children: true
 ---
 
 
 # Erreichungsgrad der Anforderungen
+Hier finden sich die in den [Rahmenbedingungen](/pages/rahmenbedingung/) festgehaltene [Anforderungen](/pages/rahmenbedingung/anforderungen) mit ihrem zum Abschluss des Projektes beschriebenen Erreichungsgrad: <br/> <br/>
+**Hervorzuheben ist, dass alle Muss-Anforderungen erfüllt sind.**{: .text-green-000} <br/> <br/> **Es wurde zwar versucht jeder Anforderung nach bestem Wissen und Gewissen gerecht zu werden und diese ideal zu befriedigen, aber bei manchen Anforderungen war es schwer im Nachhinein festzustellen ob sie nun erfüllt sind, da hier empirische Forschung benötigt werden würde um Aussagen über ihren entgültigen Erreichungsgrad treffen zu können:**{: .text-yellow-000}
+
+* NF-021 bis NF-025
+
+* F-074 und F-075
+
+**Teilweise stellten sich manche Anforderungen in ihrer definierten Beschreibung als nicht erfüllbar heraus:**{: .text-yellow-000}
+
+* F-046: Durch die Wahl der Technologie war es nicht möglich mit komplett individuellen Erinnerungsnachrichten zu arbeiten. <br/> Um hier trotzdem eine Annährung der Anforderung zu ermöglichen, wurde mit einem Pool an vorgefertigten Erinnerungsnachrichten gearbeitet. <br/> Es wurde in Rücksprache mit der Altenpflege-Mitarbeiterin versucht die herkömmlichen Gründe für einen Alarm oder Timer innerhalb der Domäne abzudecken.
+
+* F-062 bis F-064: Es stellte sich während des Projektverlaufs heraus, dass der Begriff der umgangssprachlichen und in den Anforderungen gemeinten Lautstärke nicht aus dem Audio-Eingangssignal, welches im WAV-Format bereitgestellt wird, gewonnen werden kann. <br/> Hierbei wurde versucht sich den Anforderungen anzunähren in dem mit der RMS-Leistung gearbeitet wurde. <br/> Umgangssprachlich könnte man hier von der Unruhe im Audioeingangssignal sprechen. <br/> Das bedeutet, dass sobald ein Ton perfekt gehalten wird, kein Ausschlag mehr festzustellen ist ([Siehe Video Stillemodus bei 0:54](https://www.youtube.com/watch?v=w4Ok8G5Xfq4&t=54s)). <br/> Da dies allerdings innerhalb einer Ruhezeit in der Domäne so nicht vorkommen sollte, kann man davon sprechen, dass hier eine gute Annährung an die Anforderung trotz der falschen Bezeichnung geglückt ist. 
+
+<br/>
+
+
+
+
+
 ## Auflistung
 
 | Identifikator | Beschreibung                                                                                                                        | Erreichungsgrad                                                                                                          |

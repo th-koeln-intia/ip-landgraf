@@ -2,7 +2,7 @@
 layout: default
 grand_parent: Vorgehen in der Entwicklung
 parent: Skills
-title: Timer/Alarm 
+title: Timer und Alarm 
 nav_order: 2
 ---
 

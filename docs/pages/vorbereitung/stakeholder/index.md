@@ -7,7 +7,7 @@ nav_order: 2
 
 
 # Stakeholder 
-
+Es wurden [Stakeholder](/glossar#stakeholder) gesammelt und im Anschluss ihre Interessen, Ansprüche, Anteile und Anrechte am System oder Merkmalen des Systems festgehalten:
 ## Auflistung 
 
 | Identifikator    | Name des Stakeholders      | Organisation oder Einzelperson    | Macht im / über das System | Zu erwartender Einfluss auf die Stakeholder |

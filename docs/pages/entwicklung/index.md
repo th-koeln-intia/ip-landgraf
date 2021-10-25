@@ -6,9 +6,6 @@ has_children: true
 ---
 
 # Das Vorgehen in der Entwicklung 
-
-
-## Arbeitsschritte:
-* Evaluieren der Ergebnisse der Informatikprojekte und Auswahl des Tech-Stacks
-* Erstellen und Verfeinern eines Prototypen mittels iterativem Vorgehen
-* Erste qualitative Selbsttests und Festhalten des subjektiven Eindrucks 
+Es fand eine [Analyse](analyse) von den Informatikprojekten aus dem WS 20/21 statt. <br/>
+Daraus resultierend fand die [Wahl der Technologien](entscheidungsfindung) für das Projekt statt und es wurde der [Entwicklungsverlauf](entwicklungsverlauf) festgehalten. <br/>
+Im Anschluss wird auf die [Schwierigkeiten](schwierigkeiten) während des Projektes eingegangen. <br/> Es werden die umgesetzten [Skills](skills) gezeigt und erklärt. <br/> Am Ende gibt es eine [Auflistung vom Erreichungsgrad](erreichungsgrad) der Anforderungen. 
