@@ -7,7 +7,7 @@ nav_order: 8
 
 
 # Glossar
-
+Hier finden sich Erklärungen oder für dieses Projekt festgehaltene Definitionen zu bestimmten Fachwörtern die innerhalb der Arbeit genutzt wurden:
 
 
 ## Anforderung
@@ -21,6 +21,10 @@ _aus [IEEE 610.12-1990](https://standards.ieee.org/standard/610_12-1990.html):_
 * (1) Eine Bedingung oder Fähigkeit, die von einer Person zur Lösung eines Problems oder zur Erreichung eines Ziels benötigt wird. 
 * (2) Eine Bedingung oder Fähigkeit, die eine Software erfüllen oder besitzen muss, um einen Vertrag, eine Norm oder ein anderes, formell bestimmtes Dokument zu erfüllen. 
 * (3) Eine dokumentierte Repräsentation einer Bedingung oder einer Fähigkeit wie in (1) oder (2).
+
+## Domäne
+{: .text-green-000}  
+* Das Wort "Domäne" steht in dieser Arbeit für einen bestimmten Einsatzbereich und ein abgrenzbares Fach- oder Wissensgebiet. Aus der betrachteten Domänen resultieren spezielle Anforderungen an ein technisches System, welches zur Bewältigung von domänenspezifischen Aufgaben und Probleme eingesetzt werden soll.
 
 ## Maßnahme 
 {: .text-green-000}  
