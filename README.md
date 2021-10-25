@@ -4,7 +4,7 @@
 MaxMax ist ein mittels [Rhasspy](https://github.com/rhasspy/rhasspy) umgesetzter offlinefähiger Open Source-Sprachassistent für den Einsatz durch vulnerablen Personengruppen in Wohn-, Lehr-, Pflege-, Förder- oder Betreungsmaßnahmen. <br />
 Er wurde im Rahmen eines Praxisprojektes an der [TH-Köln](https://www.th-koeln.de/) für das Forschungsprojekt [INTIA](https://dites.web.th-koeln.de/forschung/projekte/intia/) entwickelt.
 
-![](/docs/assets/images/maxmax-teaserimage.png)
+![](/docs/assets/images/maxmax-logo.png)
 
 # Installation mittels Image-Datei
 Das komprimierte Image vom Sprachassistenten MaxMax kann [hier](https://drive.google.com/file/d/1rsfCCy5GsPeIJup7GpszWAbtiVu9NVtj/view?usp=sharing) runtergeladen werden.
