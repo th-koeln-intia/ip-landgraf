@@ -14,11 +14,11 @@ Onlineverbindung auf dem Raspberry Pi zum Runterladen und Installieren benötigt
 
 Um MaxMax manuell zu installieren muss zuerst auf dem Raspberry Pi das Raspberry Pi OS Betriebssystem installiert sein: <br />
 
-![](/assets/images/piosimage.png) <br />
+![](/assets/images/piosimage.PNG) <br />
 
 In manchen Raspberry Pi-Paketen ist es vorab schon auf der Micro SD Karte installiert, ansonsten kann man es mittels [Raspberry Pi Imager](https://www.raspberrypi.org/software/) installiert werden: 
 
-![](/assets/images/choseRaspOs.png) <br />
+![](/assets/images/choseRaspOs.PNG) <br />
 
 Sobald das Betriebssystem auf der Micro SD Karte vorhanden ist, kann es losgehen:
 Die Karte muss in den Raspberry Pi gesteckt werden. Um ihn bedienen zu können empfiehlt es sich einen Bildschirm, eine Tastatur und eine Maus angeschlossen zu haben. <br /> <br />(Nicht Notwendig: Um in Zukunft den Raspberry Pi ohne Bildschirm, Tastatur und Maus zu bedienen, kann beim ersten Starten nach der Einrichtungskonfiguration [SSH](/ersteSchritte#per-ssh---bedienung-ausschließlich-über-terminal) und [VNC](/ersteSchritte#per-vnc---bedienung-mit-benutzeroberfläche) eingerichtet werden.) <br />
@@ -48,7 +48,7 @@ chmod 777 install.sh
 sudo ./install.sh
 ```
 <br />
-![](/assets/images/scriptHold.png) <br />
+![](/assets/images/scriptHold.PNG) <br />
 
 Wenn das Script wie auf dem Bild oben vor Ablauf anhalten sollte, kann es mit folgendem Befehl fortgesetzt werden: <br />
 

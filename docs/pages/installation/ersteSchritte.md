@@ -141,16 +141,16 @@ Bevor man sich mit dem Raspberry Pi verbinden kann, muss man VNC erst auf dem Ra
 vncserver
 ```
 
-![](/assets/images/vncserver1.png) <br />
+![](/assets/images/vncserver1.PNG) <br />
 
 Hier ist die Adresse markiert. Diese Adresse müssen sie nun auf dem Gerät von dem sie sich verbinden wollen in der Leiste des VNC Viewers eingeben: <br />
 
-![](/assets/images/vncserver2.png) <br />
+![](/assets/images/vncserver2.PNG) <br />
 
 
 Bevor die Verbindung hergestellt wird, werden noch Benutzer und Passwort abgefragt: <br />
 
-![](/assets/images/vncserver3.png) <br />
+![](/assets/images/vncserver3.PNG) <br />
 
 Der Standart-Nutzer auf dem Raspberry Pi trägt den Namen `pi`.
 - Falls MaxMax mit der Image-Datei installiert wurde ist das Passwort `maxmax1`. 

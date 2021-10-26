@@ -14,7 +14,7 @@ Der Sprachassistent "MaxMax" benötigt Hardware um laufen und seine ganze Funkti
 <br />
 
 ## Computer mit Netzteil:
-Als Grundlage wurde für das Projekt der Einplatinencomputer "Raspberry Pi" genommen. <br />
+Als Grundlage wurde für das Projekt der Einplatinencomputer "[Raspberry Pi](https://www.raspberrypi.org/)" genommen. <br />
 Entwickelt wurde das System auf einem Raspberry Pi 4 B mit 8GB Ram, es wurde jedoch auch auf einem Raspberry Pi 3 B mit 1GB Ram getestet und läuft auf diesem. Hierrauf ist aber mit längeren Feedback-Zeiten zu rechnen.
 <br />
 ![](/assets/images/piimage.png)
@@ -22,7 +22,7 @@ Entwickelt wurde das System auf einem Raspberry Pi 4 B mit 8GB Ram, es wurde jed
 
 ## Festplatte:
 Damit die Daten von MaxMax installiert werden können, braucht es eine Festplatte bzw. ein Speichermedium. <br />
-Als Speichermedium kommt bei einem Raspberry PI Model 3 oder 4 eine Micro SD Karte zum Einsatz.<br /> Im Projekt wurde mit 32 GB Karten gearbeitet. Es können aber alle Karten ab 16 GB aufwärts benutzt werden.<br /> Zur besseren Installation wird Empfohlen ein Micro SD zu SD Adapter zu besorgen (Micro SD Karte mit SD Adapter gibt es häufig im Doppelpack). 
+Als Speichermedium kommt bei einem Raspberry PI Model 3 oder 4 eine Micro SD Karte zum Einsatz.<br /> Im Projekt wurde mit 32 GB Karten gearbeitet. Es können aber alle Karten ab 16 GB aufwärts benutzt werden.<br /> Zur besseren Installation wird empfohlen ein Micro SD zu SD Adapter zu besorgen (Micro SD Karte mit SD Adapter gibt es häufig im Doppelpack). 
 <br />
 ![](/assets/images/sdimage.png)
 <br />
