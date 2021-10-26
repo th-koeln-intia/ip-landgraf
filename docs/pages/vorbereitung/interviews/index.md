@@ -9,7 +9,7 @@ has_children: true
 
 
 # Interviews
-Zum besseren Verständnis der Zielgruppe wurden zwei freie Interviews mit jeweils einer Mitarbeiterin des Jugendamtes und einer Mitarbeiterin einer Altentagespflege-Einrichtung geführt. Anhand der Interviews konnte ein besseres Verständnis der späteren Nutzungs-Domänen erzielt werden und die Auswahl der [Anforderungen](/glossar#anforderung) an den Sprachassistent somit besser begründet werden. 
+Zum besseren Verständnis der [Zielgruppe](/glossar#zielgruppe) wurden zwei freie Interviews mit jeweils einer Mitarbeiterin des Jugendamtes und einer Mitarbeiterin einer Altentagespflege-Einrichtung geführt. Anhand der Interviews konnte ein besseres Verständnis der späteren Nutzungs-Domänen erzielt werden und die Auswahl der [Anforderungen](/glossar#anforderung) an den Sprachassistent somit besser begründet werden. 
 
 Die Interviews wurden aufgezeichnet und dann verschriftlicht.
 Die Namen der Befragten wie auch Informationen über Wohn- oder Arbeitsort wurden zur Anonymisierung aus den Interviews entfernt.

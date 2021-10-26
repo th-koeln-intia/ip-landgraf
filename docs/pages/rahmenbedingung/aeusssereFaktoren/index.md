@@ -15,7 +15,7 @@ Bei herkömmlichen Sprachassistenten sind die Merkmale "Sprache-Zu-Text" und "Ab
 ## Ziel:
 Hauptschwerpunkt des Praxisprojektes ist die Entwicklung eines einsatzreifen Sprachassistenten.<br/>
 Ziel hierbei ist es am Ende einen evaluierbaren, offlinefähigen Open-Source Prototypen zu haben.<br/>
-Seine Skills und die Bedienbarkeit sollen sich sinnvoll an die bestimmte Zielgruppe richten.<br/>
+Seine Skills und die Bedienbarkeit sollen sich sinnvoll an die bestimmte [Zielgruppe](/glossar#zielgruppe) richten.<br/>
 
 ## Bereitgestellte Hardware:
 Für das Projekt wurde ein Paket mit folgender Hardware bereitgestellt:

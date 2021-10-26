@@ -24,7 +24,7 @@ _aus [IEEE 610.12-1990](https://standards.ieee.org/standard/610_12-1990.html):_
 
 ## Domäne
 {: .text-green-000}  
-* Das Wort "Domäne" steht in dieser Arbeit für einen bestimmten Einsatzbereich und ein abgrenzbares Fach- oder Wissensgebiet. Aus der betrachteten Domänen resultieren spezielle Anforderungen an ein technisches System, welches zur Bewältigung von domänenspezifischen Aufgaben und Probleme eingesetzt werden soll.
+* Das Wort "Domäne" steht in dieser Arbeit für einen bestimmten Einsatzbereich und ein abgrenzbares Fach- oder Wissensgebiet. <br /> Aus der betrachteten Domänen resultieren spezielle [Anforderungen](/glossar#anforderung) an ein technisches System, welches zur Bewältigung von domänenspezifischen Aufgaben und Probleme eingesetzt werden soll.
 
 ## Maßnahme 
 {: .text-green-000}  

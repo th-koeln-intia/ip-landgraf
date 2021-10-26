@@ -136,7 +136,7 @@ Nach Eingabe des Befehls wird man nach dem Passwort des Benutzers gefragt:
 
 ### Per VNC - Bedienung mit Benutzeroberfläche
 Um sich per VNC zu verbinden wird eine externe Software benötigt. <br /> In der Entwicklung kam hier [VNC Viewer](https://www.realvnc.com/de/connect/download/viewer/) zum Einsatz. <br />
-Bevor man sich mit dem Raspberry Pi verbinden kann, muss man VNC erst auf dem Raspberry Pi einschalten. Dies kann im Terminal mit folgendem Befehl erfolgen:
+Bevor man sich mit dem Raspberry Pi verbinden kann, muss man VNC erst auf dem Raspberry Pi einschalten. Dies kann im [Terminal](/glossar#terminal) mit folgendem Befehl erfolgen:
 
 ```shell
 vncserver
