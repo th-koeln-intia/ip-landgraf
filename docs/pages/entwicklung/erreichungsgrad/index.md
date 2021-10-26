@@ -8,7 +8,7 @@ nav_order: 6
 
 # Erreichungsgrad der Anforderungen
 Hier finden sich die in den [Rahmenbedingungen](/pages/rahmenbedingung/) festgehaltene [Anforderungen](/pages/rahmenbedingung/anforderungen) mit ihrem zum Abschluss des Projektes beschriebenen Erreichungsgrad: <br/> <br/>
-**Hervorzuheben ist, dass alle Muss-Anforderungen erfüllt sind.**{: .text-green-000} <br/> <br/> **Es wurde zwar versucht jeder Anforderung nach bestem Wissen und Gewissen gerecht zu werden und diese ideal zu befriedigen, aber bei manchen Anforderungen war es schwer im Nachhinein festzustellen ob sie nun erfüllt sind, da hier empirische Forschung benötigt werden würde um Aussagen über ihren entgültigen Erreichungsgrad treffen zu können:**{: .text-yellow-000}
+**Alle Muss-Anforderungen sind erfüllt.**{: .text-green-000} <br/> <br/> **Es wurde zwar versucht jeder Anforderung nach bestem Wissen und Gewissen gerecht zu werden und diese ideal zu befriedigen, aber bei manchen Anforderungen war es schwer im Nachhinein festzustellen ob sie nun erfüllt sind, da hier empirische Forschung benötigt werden würde um Aussagen über ihren entgültigen Erreichungsgrad treffen zu können:**{: .text-yellow-000}
 
 * NF-021 bis NF-025
 

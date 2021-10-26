@@ -53,7 +53,7 @@ _aus [Gabler Wirtschaftslexikon - Prof. Dr. Jean-Paul Thommen](https://wirtschaf
 {: .text-green-000} 
 * In der Dokumentation ist das Wort Terminal stellvertretend für eine kommando-orientierte Shell benutzt worden. Hierin werden Kommandos an den Computer direkt eingeben, anstelle mit der Maus auf dem Bildschirm zu klicken und in Feldern Informationen einzutragen. Auf dem Raspberry Pi OS ist standartmäßig das "LXTerminal" installiert.<br /> 
 Ein Terminal kann so aussehen:<br />
-![](/assets/images/terminal.png) <br /> 
+![](/assets/images/terminal.PNG) <br /> 
 
 ## Vulnerable Personen/Personengruppen
 {: .text-green-000}  

@@ -18,7 +18,7 @@ has_children: true
 ## Prämisse des Projektes:
 Ein Sprachassistent, der da Einsatz finden kann wo herkömmliche Sprachassistenten aus Haftungs- oder Datenschutzbedenken in Deutschland nicht eingesetzt werden: <br/> 
 
-In Deutschland werden herkömmliche Sprachassistenten nicht an Orten, in denen [vulnerable Personen](/glossar#vulnerable-personenpersonengruppen) in Gruppen betreut werden. Die Datenschutzkonformität ist bedenklich, da die Auswertung der Sprachbefehle ausgelagert ist, also nicht direkt auf den Geräten selbst stattfindet. <br/> 
+In Deutschland werden herkömmliche Sprachassistenten nicht an Orten, in denen [vulnerable Personen](/glossar#vulnerable-personenpersonengruppen) in Gruppen betreut werden, eingesetzt. <br/>  Die Datenschutzkonformität ist bedenklich, da die Auswertung der Sprachbefehle ausgelagert ist, also nicht direkt auf den Geräten selbst stattfindet. <br/> 
 Dies ermöglicht zwar die Einsparung von Ressourcen und eine bessere Erkennung der Befehle, aber es schließt eine Bevölkerungsgruppe von der digitalen Teilhabe mit solchen Geräten aus.
 
 ## Problem:
